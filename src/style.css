@@ -1,0 +1,19 @@
+.oopApproach{
+    border-color: lightblue;
+    border-style: outset;
+    border-width: 3px;
+    font-size: 1rem;
+    color: #3092ad;
+    padding: 1rem;
+    height: 20rem;
+}
+
+.functionalApproach{
+    border-color: green;
+    border-style: outset;
+    border-width: 3px;
+    font-size: 1rem;
+    color: #3092ad;
+    padding: 1rem;
+    height: 20rem;
+}
